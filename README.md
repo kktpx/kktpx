@@ -111,25 +111,6 @@ A project focused on testing and experimenting with real-time web functionality.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kktpx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktpx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kktpx&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 # 📈 My Development Journey
 

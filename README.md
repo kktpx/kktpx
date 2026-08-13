@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D47A1,50:1976D2,100:38BDF8&text=Kittipop%20Sanpho&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Frontend%20%2F%20Full-Stack%20Developer%20%E2%80%A2%20Software%20Testing%20%E2%80%A2%20AI%20%26%20Web%20Security&descAlignY=58&animation=fadeIn"/>
+# Hi, I'm Kittipop Sanpho 👋
+
+### Frontend / Full-Stack Developer · Software Testing · AI & Web Security
 
 <a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/Portfolio-kktp.my-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-kktp.my-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/kktpx">
   <img src="https://img.shields.io/badge/GitHub-kktpx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -11,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Exploring+AI+%26+Computer+Vision;Learning+Software+Testing+%26+Web+Security;Turning+ideas+into+real+projects" alt="Typing SVG" />
+`Building modern web experiences` · `AI & Computer Vision` · `Testing` · `Web Security`
 
 </div>
 
@@ -130,12 +132,12 @@ Frontend e-commerce prototype for football shirts with product pages, cart inter
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kktpx&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=38BDF8&text_color=8B949E" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktpx&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=8B949E" alt="Top Languages"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kktpx&theme=github" alt="Kittipop GitHub Profile Summary"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=00000000&color=8B949E&line=2563EB&point=38BDF8&area=true&hide_border=true" alt="Contribution Graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kktpx&show_icons=true&hide_border=true&bg_color=00000000&title_color=06B6D4&icon_color=22D3EE&text_color=8B949E" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktpx&layout=compact&hide_border=true&bg_color=00000000&title_color=06B6D4&text_color=8B949E" alt="Top Languages"/>
 
 </div>
 
@@ -161,7 +163,7 @@ Want to see more of my work? Check out my portfolio or explore my repositories.
 <br/><br/>
 
 <a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/kktpx?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -169,8 +171,6 @@ Want to see more of my work? Check out my portfolio or explore my repositories.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kktpx&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kktpx&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile Views"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D47A1,50:1976D2,100:38BDF8"/>

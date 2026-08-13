@@ -1,160 +1,176 @@
-# 👋 Hi, I'm Kittipop Sanpho
+<div align="center">
 
-### 💻 Frontend Developer | Full-Stack Developer | Software Tester
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D47A1,50:1976D2,100:38BDF8&text=Kittipop%20Sanpho&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Frontend%20%2F%20Full-Stack%20Developer%20%E2%80%A2%20Software%20Testing%20%E2%80%A2%20AI%20%26%20Web%20Security&descAlignY=58&animation=fadeIn"/>
 
-I'm a Computer Science student who enjoys building web applications, exploring software development, and learning new technologies.
+<a href="https://www.kktp.my/">
+  <img src="https://img.shields.io/badge/Portfolio-kktp.my-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/kktpx">
+  <img src="https://img.shields.io/badge/GitHub-kktpx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-I like turning ideas into real-world projects — from responsive websites and e-commerce platforms to Web Security and Machine Learning projects.
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Exploring+AI+%26+Computer+Vision;Learning+Software+Testing+%26+Web+Security;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
-## 🚀 About Me
-
-* 🎓 Computer Science Student
-* 💻 Interested in **Frontend Development & Full-Stack Development**
-* 🧪 Interested in **Software Testing / QA**
-* 🔐 Interested in **Web Security & Vulnerability Testing**
-* 🤖 Exploring **Machine Learning**
-* 🌐 Building modern and responsive Web Applications
-* 📚 Always learning and improving my development skills
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-### 💻 Languages
+I'm a **Computer Science student** interested in building practical software — from modern web interfaces and full-stack applications to **software testing, web security, machine learning, and computer vision**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+I enjoy learning by building real projects, improving existing code, and experimenting with technologies that solve real-world problems.
 
-### ⚛️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔐 Security & Testing
-
-* Web Application Security
-* SQL Injection
-* XSS
-* Web IDS
-* Test Case / Test Scenario
-* Software Testing
-* Vulnerability Testing
+- 💻 Focused on **Frontend & Full-Stack Development**
+- 🧪 Learning and practicing **Software Testing / QA**
+- 🔐 Exploring **Web Application Security**
+- 🤖 Building projects with **Machine Learning & Computer Vision**
+- 🚀 Continuously improving through hands-on projects
 
 ---
 
-# 🌟 Featured Projects
+## 🧰 Tech I Work With
 
-## 🌐 Web Portfolio
+<div align="center">
 
-My personal portfolio website showcasing my profile, skills, education, and projects.
+### Frontend
 
-**Tech:** React • Vite • JavaScript • CSS
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/GSAP-161B22?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
 
-🔗 [View Repository](https://github.com/kktpx/Web-Portfolio)
+### Backend & Data
 
----
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Flask-161B22?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=44A2D3"/>
+<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
 
-## 🛒 20 Shop
+### AI / Computer Vision
 
-A football jersey e-commerce website featuring products from popular football clubs such as Liverpool, Arsenal, Manchester City, Manchester United, Chelsea and Tottenham Hotspur.
+<img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/YOLOv5-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 
-**Features:**
+### Tools & Practices
 
-* 🏠 Product showcase
-* 👕 Football jersey catalog
-* 🛒 Shopping cart
-* 📱 Responsive interface
-* 🎨 Modern UI
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Software_Testing-161B22?style=for-the-badge&logo=checkmarx&logoColor=54D3A7"/>
+<img src="https://img.shields.io/badge/Web_Security-161B22?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
 
-**Tech:** HTML • CSS • JavaScript • Tailwind CSS
-
-🔗 [View Repository](https://github.com/kktpx/20-shop)
-
----
-
-## 🛡️ Web IDS Project
-
-A Web Intrusion Detection System using Machine Learning to detect malicious web application payloads such as **SQL Injection and XSS**.
-
-The project consists of:
-
-* `app.py` — Web IDS API & Dashboard
-* `todo_app.py` — Vulnerable test application
-* Machine Learning model for payload classification
-* SQLite database
-* Deployment support for Render / Vercel
-
-**Tech:** Python • Flask • Scikit-learn • SQLite • Machine Learning
-
-🔗 [View Repository](https://github.com/kktpx/Project_web-ids)
+</div>
 
 ---
 
-## ⚡ Test-Realtime
+## ✨ Featured Projects
 
-A project focused on testing and experimenting with real-time web functionality.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/kktpx/Test-Realtime)
+### 🌐 [Web Portfolio](https://github.com/kktpx/Web-Portfolio)
+
+Personal portfolio built to showcase projects, skills, education, and developer experience with a modern interactive UI.
+
+**Stack:** `React` `Vite` `JavaScript` `GSAP`
+
+<a href="https://www.kktp.my/"><b>Live Website →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🪙 [Thai Coin Detection](https://github.com/kktpx/Coin-Detection)
+
+Real-time Thai coin detection and denomination classification using a custom YOLOv5 model with webcam inference.
+
+**Stack:** `Python` `YOLOv5` `PyTorch` `OpenCV` `Flask`
+
+<a href="https://github.com/kktpx/Coin-Detection"><b>View Repository →</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Web IDS](https://github.com/kktpx/Project_web-ids)
+
+Machine-learning based Web Intrusion Detection System designed to classify malicious payloads such as SQL Injection and XSS.
+
+**Stack:** `Python` `Flask` `scikit-learn` `Pandas`
+
+<a href="https://github.com/kktpx/Project_web-ids"><b>View Repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [20 Shop](https://github.com/kktpx/20-shop)
+
+Frontend e-commerce prototype for football shirts with product pages, cart interactions, responsive layouts, and browser-side persistence.
+
+**Stack:** `HTML` `Tailwind CSS` `JavaScript` `localStorage`
+
+<a href="https://github.com/kktpx/20-shop"><b>View Repository →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📊 GitHub Activity
 
-# 📈 My Development Journey
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kktpx&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=38BDF8&text_color=8B949E" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kktpx&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=8B949E" alt="Top Languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=00000000&color=8B949E&line=2563EB&point=38BDF8&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Currently Improving
 
 ```text
-Frontend Development    ████████████████████░░  90%
-Full-Stack Development  ████████████████░░░░░░  75%
-Software Testing        ███████████████░░░░░░░  70%
-Web Security            ██████████████░░░░░░░░  65%
-Machine Learning        ██████████░░░░░░░░░░░░  50%
+Web Development        → Building cleaner, maintainable web applications
+Software Testing       → Test cases, QA workflows, and reliability
+Web Security           → Understanding common web vulnerabilities
+AI / Computer Vision   → Detection models and practical ML applications
 ```
 
 ---
 
-# 🎯 Current Goals
+## 🤝 Connect
 
-* 🚀 Improve Frontend & Full-Stack Development
-* 🧪 Improve Software Testing and QA skills
-* 🔐 Learn more about Web Application Security
-* 🤖 Improve Machine Learning knowledge
-* 💼 Build real-world projects
-* 🌎 Prepare for a career in the Software Development industry
+<div align="center">
 
----
+Want to see more of my work? Check out my portfolio or explore my repositories.
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/kktpx">
-<img src="https://img.shields.io/badge/GitHub-kktpx-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
 
 <a href="https://www.kktp.my/">
-<img src="https://img.shields.io/badge/Portfolio-kktp.my-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/kktpx?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=kktpx&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views"/>
 
-<p align="center">
+</div>
 
-### 💙 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=kktpx&style=for-the-badge&color=blue"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D47A1,50:1976D2,100:38BDF8"/>

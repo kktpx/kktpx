@@ -1,15 +1,30 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Kittipop Sanpho — Frontend / Full-Stack Developer"/>
+# 👋 Hi, I'm Kittipop Sanpho
 
-<br/>
+### Frontend / Full-Stack Developer · Software Testing · AI & Web Security
+
+<p>
+  Computer Science student building modern web applications,<br/>
+  exploring AI / Computer Vision, software testing, and web security.
+</p>
 
 <a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/Portfolio-kktp.my-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-KKTP.MY-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/kktpx">
-  <img src="https://img.shields.io/badge/GitHub-kktpx-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-KKTPX-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<br/><br/>
+
+<code>WEB DEVELOPMENT</code>
+&nbsp;•&nbsp;
+<code>SOFTWARE TESTING</code>
+&nbsp;•&nbsp;
+<code>WEB SECURITY</code>
+&nbsp;•&nbsp;
+<code>AI / COMPUTER VISION</code>
 
 </div>
 
@@ -119,30 +134,28 @@ Frontend football-shirt e-commerce prototype with product pages, cart interactio
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=00000000&color=0891B2&line=06B6D4&point=22D3EE&area=true&area_color=06B6D4&hide_border=true" alt="Kittipop's GitHub activity graph"/>
+### Currently building & improving
 
-<br/>
-
-<a href="https://github.com/kktpx?tab=overview">
-  <img src="https://img.shields.io/badge/View_Full_Contribution_Activity-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View contribution activity"/>
+<a href="https://github.com/kktpx?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<a href="https://github.com/kktpx">
+  <img src="https://img.shields.io/badge/View_GitHub_Activity-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
 </a>
 
 </div>
 
-> If the dynamic graph is temporarily unavailable, the button above opens the contribution activity directly on GitHub.
+<br/>
+
+| Area | Current Focus |
+|---|---|
+| 🌐 Web Development | Building cleaner and maintainable web applications |
+| 🧪 Software Testing | Test cases, QA workflows, and reliability |
+| 🔐 Web Security | Common web vulnerabilities and defensive practices |
+| 🤖 AI / Computer Vision | Detection models and practical ML applications |
 
 ---
 
-## 🎯 Currently Improving
-
-```text
-Web Development       → Cleaner and maintainable web applications
-Software Testing      → Test cases, QA workflows, and reliability
-Web Security          → Common vulnerabilities and defensive practices
-AI / Computer Vision  → Detection models and practical ML applications
-```
-
----
 
 ## 🤝 Connect With Me
 

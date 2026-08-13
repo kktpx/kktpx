@@ -134,25 +134,15 @@ Frontend football-shirt e-commerce prototype with product pages, cart interactio
 
 <div align="center">
 
-### Currently building & improving
-
-<a href="https://github.com/kktpx?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
 <a href="https://github.com/kktpx">
-  <img src="https://img.shields.io/badge/View_GitHub_Activity-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=00000000&color=67E8F9&line=06B6D4&point=22D3EE&area=true&area_color=0891B2&hide_border=true&radius=8&custom_title=GitHub%20Contribution%20Graph"
+    alt="GitHub Contribution Graph"
+  />
 </a>
 
 </div>
-
-<br/>
-
-| Area | Current Focus |
-|---|---|
-| 🌐 Web Development | Building cleaner and maintainable web applications |
-| 🧪 Software Testing | Test cases, QA workflows, and reliability |
-| 🔐 Web Security | Common web vulnerabilities and defensive practices |
-| 🤖 AI / Computer Vision | Detection models and practical ML applications |
 
 ---
 

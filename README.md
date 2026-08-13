@@ -134,22 +134,25 @@ Frontend football-shirt e-commerce prototype with product pages, cart interactio
 
 <div align="center">
 
-<a href="https://github.com/kktpx">
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=00000000&color=0891B2&line=06B6D4&point=22D3EE&area=true&area_color=06B6D4&hide_border=true&custom_title=Kittipop%27s%20GitHub%20Activity"
-       alt="Kittipop's GitHub Activity Graph"/>
-</a>
-
-<br/><br/>
+### Currently building & improving
 
 <a href="https://github.com/kktpx?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://github.com/kktpx">
-  <img src="https://img.shields.io/badge/View_GitHub_Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/View_GitHub_Activity-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
 </a>
 
 </div>
+
+<br/>
+
+| Area | Current Focus |
+|---|---|
+| 🌐 Web Development | Building cleaner and maintainable web applications |
+| 🧪 Software Testing | Test cases, QA workflows, and reliability |
+| 🔐 Web Security | Common web vulnerabilities and defensive practices |
+| 🤖 AI / Computer Vision | Detection models and practical ML applications |
 
 ---
 

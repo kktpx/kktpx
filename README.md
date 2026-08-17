@@ -150,7 +150,6 @@ Machine-learning based Web Intrusion Detection System designed to identify malic
 </td>
 </tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [20 Shop](https://github.com/kktpx/20-shop)
@@ -164,7 +163,6 @@ Football shirt e-commerce prototype featuring product pages, responsive UI, shop
 </td>
 <td width="50%" valign="top">
 
-</tr>
 </table>
 
 ---

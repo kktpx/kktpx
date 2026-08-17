@@ -55,8 +55,6 @@ I'm a **Computer Science student** who enjoys building practical software — fr
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/Vite-0F172A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=22D3EE)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0F172A?style=for-the-badge\&logo=shadcnui\&logoColor=FFFFFF)
-![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge\&logo=greensock\&logoColor=88CE02)
 
 ### Backend & Database
 
@@ -72,21 +70,10 @@ I'm a **Computer Science student** who enjoys building practical software — fr
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=for-the-badge\&logo=googlegemini\&logoColor=8E75B2)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge\&logo=pandas\&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
-
-### Security & Testing
-
-![Zod](https://img.shields.io/badge/Zod-0F172A?style=for-the-badge\&logo=zod\&logoColor=3E67B1)
-![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge\&logo=playwright\&logoColor=45BA4B)
-![Vitest](https://img.shields.io/badge/Vitest-0F172A?style=for-the-badge\&logo=vitest\&logoColor=6E9F18)
-![ESLint](https://img.shields.io/badge/ESLint-0F172A?style=for-the-badge\&logo=eslint\&logoColor=4B32C3)
-![Web Security](https://img.shields.io/badge/Web_Security-0F172A?style=for-the-badge\&logo=owasp\&logoColor=FFFFFF)
 
 ### DevOps & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
 ![Render](https://img.shields.io/badge/Render-0F172A?style=for-the-badge\&logo=render\&logoColor=FFFFFF)

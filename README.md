@@ -139,17 +139,6 @@ AI-powered calorie and nutrition application built with a modern full-stack arch
 <tr>
 <td width="50%" valign="top">
 
-### 🪙 [Thai Coin Detection](https://github.com/kktpx/Coin-Detection)
-
-Computer vision application for Thai coin detection and denomination classification using deep learning.
-
-**Stack:** `Python` `YOLOv5` `PyTorch` `OpenCV` `Flask` `NumPy` `Pandas` `scikit-learn`
-
-**[View Repository →](https://github.com/kktpx/Coin-Detection)**
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛡️ [Web IDS](https://github.com/kktpx/Project_web-ids)
 
 Machine-learning based Web Intrusion Detection System designed to identify malicious web payloads such as SQL Injection and XSS.
@@ -175,15 +164,6 @@ Football shirt e-commerce prototype featuring product pages, responsive UI, shop
 </td>
 <td width="50%" valign="top">
 
-### 🧪 [Test-Realtime](https://github.com/kktpx/Test-Realtime)
-
-Experimental project focused on testing and realtime application behavior.
-
-**Stack:** `Testing` `Web Development` `Realtime`
-
-**[View Repository →](https://github.com/kktpx/Test-Realtime)**
-
-</td>
 </tr>
 </table>
 

@@ -50,31 +50,50 @@ I'm a **Computer Science student** who enjoys building practical software — fr
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge\&logo=nextdotjs\&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/Vite-0F172A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=22D3EE)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0F172A?style=for-the-badge\&logo=shadcnui\&logoColor=FFFFFF)
 ![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge\&logo=greensock\&logoColor=88CE02)
 
-### Backend & Data
+### Backend & Database
 
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge\&logo=flask\&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge\&logo=prisma\&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge\&logo=sqlite\&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge\&logo=databricks\&logoColor=FF3621)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge\&logo=numpy\&logoColor=013243)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge\&logo=sqlite\&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
 
-### AI / Computer Vision
+### AI / Machine Learning
 
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=for-the-badge\&logo=googlegemini\&logoColor=8E75B2)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-0F172A?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge\&logo=opencv\&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge\&logo=pandas\&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
+
+### Security & Testing
+
+![Zod](https://img.shields.io/badge/Zod-0F172A?style=for-the-badge\&logo=zod\&logoColor=3E67B1)
+![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge\&logo=playwright\&logoColor=45BA4B)
+![Vitest](https://img.shields.io/badge/Vitest-0F172A?style=for-the-badge\&logo=vitest\&logoColor=6E9F18)
+![ESLint](https://img.shields.io/badge/ESLint-0F172A?style=for-the-badge\&logo=eslint\&logoColor=4B32C3)
+![Web Security](https://img.shields.io/badge/Web_Security-0F172A?style=for-the-badge\&logo=owasp\&logoColor=FFFFFF)
+
+### DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-0F172A?style=for-the-badge\&logo=render\&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=F05032)
 
 </div>
 
----
 
 ## ✨ Featured Projects
 

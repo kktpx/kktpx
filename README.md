@@ -160,14 +160,12 @@ Football shirt e-commerce prototype featuring product pages, responsive UI, shop
 ## 📈 GitHub Activity
 
 <div align="center">
-<a href="https://github.com/kktpx">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&theme=react-dark&bg_color=0F172A&color=22D3EE&line=06B6D4&point=67E8F9&area=true&area_color=0891B2&hide_border=true&radius=8&custom_title=GitHub%20Contribution%20Graph"
-    alt="GitHub Contribution Graph"
+  <img 
+    width="100%" 
+    src="https://github-profile-trophy.vercel.app/?username=kktpx&theme=tokyonight&no-bg=false&margin-w=4" 
+    alt="GitHub Trophies" 
   />
-</a>
-</div>
+</div>>
 
 ---
 

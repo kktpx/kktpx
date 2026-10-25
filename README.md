@@ -1,203 +1,133 @@
 <div align="center">
 
-# 👋 Hi, I'm Kittipop Sanpho
+# Hi, I'm Kittipop Sanpho
 
-### Frontend / Full-Stack Developer · Software Testing · AI & Web Security
+**Frontend & Full-Stack Developer · Mobile Applications · AI & Web Security**
+
+Computer Science student turning ideas into practical, user-focused software.<br/>
+I build web and mobile applications, connect them to real services, and care about how they work beyond the UI.
 
 <p>
-  Computer Science student building modern web applications,<br/>
-  exploring AI / Computer Vision, software testing, and web security.
+  <a href="https://www.kktp.my/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-KKTP.MY-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
+  </a>
+  <a href="https://github.com/kktpx?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
 </p>
 
-<a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-KKTP.MY-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/kktpx">
-  <img src="https://img.shields.io/badge/GITHUB-KKTPX-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<code>WEB DEVELOPMENT</code>
- •  <code>SOFTWARE TESTING</code>
- •  <code>WEB SECURITY</code>
- •  <code>AI / COMPUTER VISION</code>
+`WEB DEVELOPMENT` · `MOBILE APPS` · `AI / ML` · `WEB SECURITY`
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a **Computer Science student** who enjoys building practical software — from modern web interfaces and full-stack applications to **software testing, web security, machine learning, computer vision, and AI-powered applications**.
+I'm a **Computer Science student** focused on **Frontend and Full-Stack Development**. I enjoy building complete applications—from responsive interfaces and API integrations to authentication, databases, and deployment.
 
-* 💻 Focused on **Frontend & Full-Stack Development**
-* 🧪 Practicing **Software Testing / QA**
-* 🔐 Exploring **Web Application Security**
-* 🤖 Building **Machine Learning & Computer Vision** projects
-* 🧠 Exploring **AI-powered applications with Gemini**
-* 🗄️ Working with **SQL, SQLite, PostgreSQL & Prisma**
-* 🚀 Learning through real projects and continuous improvement
+- **Web:** Building interactive, maintainable interfaces with React and Vue, and connecting them to backend services.
+- **Mobile:** Developing cross-platform apps with React Native and Expo, including an AI-assisted nutrition tracker.
+- **AI & Security:** Integrating Gemini into applications and exploring machine-learning-based web vulnerability detection.
+- **Engineering:** Practicing automated testing, debugging, and iterative improvement through hands-on projects.
 
 ---
 
-## 🧰 Tech I Work With
+## Tech Stack
 
-<div align="center">
+### Languages & Frontend
 
-### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-0F172A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=22D3EE)
+### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0F172A?style=for-the-badge&logo=expo&logoColor=FFFFFF)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge\&logo=flask\&logoColor=FFFFFF)
-![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge\&logo=prisma\&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge\&logo=sqlite\&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge\&logo=sqlite\&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
 
-### AI / Machine Learning
+### AI, Testing & Tools
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=for-the-badge\&logo=googlegemini\&logoColor=8E75B2)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0F172A?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Jest](https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/Vitest-0F172A?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![Pytest](https://img.shields.io/badge/Pytest-0F172A?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=FFFFFF)
 
-### DevOps & Deployment
+---
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
-![Render](https://img.shields.io/badge/Render-0F172A?style=for-the-badge\&logo=render\&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-</div>
-
-
-## ✨ Featured Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Web Portfolio](https://github.com/kktpx/Web-Portfolio)
-
-Modern personal portfolio showcasing projects, skills, education, and developer experience.
-
-**Stack:** `React` `Vite` `JavaScript` `GSAP`
-
-**[Live Website →](https://www.kktp.my/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Calcu](https://github.com/kktpx/Calcu)
-
-AI-powered calorie and nutrition application built with a modern full-stack architecture.
-
-**Stack:** `Next.js` `TypeScript` `React` `Prisma` `SQLite` `PostgreSQL` `Gemini API`
-
-**[View Repository →](https://github.com/kktpx/Calcu)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Web IDS](https://github.com/kktpx/Project_web-ids)
-
-Machine-learning based Web Intrusion Detection System for detecting malicious payloads such as SQL Injection and XSS.
-
-**Stack:** `Python` `Flask` `scikit-learn` `Pandas` `NumPy`
-
-**[View Repository →](https://github.com/kktpx/Project_web-ids)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [20 Shop](https://github.com/kktpx/20-shop)
-
-Football shirt e-commerce prototype featuring product pages, responsive UI, shopping cart interactions, and client-side persistence.
-
-**Stack:** `HTML` `Tailwind CSS` `JavaScript` `localStorage`
-
-**[View Repository →](https://github.com/kktpx/20-shop)**
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kktpx/CalcuM">CalcuM</a></h3>
+      <p>AI-assisted calorie and nutrition tracking app. Log meals and weight, monitor daily macros, and estimate food nutrition from photos using Gemini.</p>
+      <p><b>Stack:</b> <code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Supabase</code> <code>Gemini API</code></p>
+      <a href="https://github.com/kktpx/CalcuM"><b>View repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kktpx/Web-Portfolio">Web Portfolio</a></h3>
+      <p>Interactive personal portfolio with animated UI, a Supabase-backed project CMS, and visitor analytics to understand engagement.</p>
+      <p><b>Stack:</b> <code>React</code> <code>Vite</code> <code>JavaScript</code> <code>GSAP</code> <code>Supabase</code></p>
+      <a href="https://www.kktp.my/"><b>Live website</b></a> · <a href="https://github.com/kktpx/Web-Portfolio"><b>Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kktpx/Threatsentry">ThreatSentry</a></h3>
+      <p>Web vulnerability scanner for authorized targets. Combines passive checks, focused SQL injection/XSS probes, and an ML payload classifier as supporting evidence.</p>
+      <p><b>Stack:</b> <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Python</code> <code>scikit-learn</code> <code>Supabase</code></p>
+      <a href="https://github.com/kktpx/Threatsentry"><b>View repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/7sadakonr/WebPageArctri">Arctri Website</a></h3>
+      <p>Responsive, bilingual (EN/TH) landing page for Arctri, an AI-agent-focused terminal, with product details and release-download links.</p>
+      <p><b>Stack:</b> <code>Vue 3</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS 4</code> <code>vue-i18n</code></p>
+      <a href="https://github.com/7sadakonr/WebPageArctri"><b>Website repository</b></a> · <a href="https://github.com/7sadakonr/Arctri"><b>Arctri app</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🏗️ What I Build
-
-<div align="center">
-
-| Area                | Focus                                                   |
-| ------------------- | ------------------------------------------------------- |
-| 🌐 Web Development  | Responsive frontend, modern UI, full-stack applications |
-| ⚙️ Full-Stack       | Next.js, React, APIs, authentication, databases         |
-| 🧪 Software Testing | Test cases, test scenarios, validation and QA           |
-| 🔐 Web Security     | SQL Injection, XSS, intrusion detection                 |
-| 🤖 AI / ML          | Machine learning, Gemini API, intelligent applications  |
-| 👁️ Computer Vision | Object detection, image processing, YOLOv5              |
-| 🗄️ Data            | SQL, PostgreSQL, SQLite, Prisma, Pandas                 |
-| 📊 Visualization    | Recharts, Matplotlib, data-driven interfaces            |
-
-</div>
-
----
-
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <a href="https://github.com/kktpx">
-    <img 
-      width="100%" 
-      src="https://activity-graph.herokuapp.com/graph?username=kktpx&bg_color=0F172A&color=22D3EE&line=06B6D4&point=67E8F9&area=true&area_color=0891B2&hide_border=true&radius=8&custom_title=GitHub%20Activity" 
-      alt="GitHub Activity Graph" 
-    />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kktpx&bg_color=0F172A&color=22D3EE&line=06B6D4&point=67E8F9&area=true&area_color=0891B2&hide_border=true&radius=8&custom_title=GitHub%20Activity" alt="GitHub activity graph for kktpx" />
   </a>
 </div>
----
-
-## 📂 Repository Collection
-
-<div align="center">
-
-<a href="https://github.com/kktpx?tab=repositories">
-  <img src="https://img.shields.io/badge/ALL_PROJECTS-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/>
-</a>
-<a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-KKTP.MY-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="https://www.kktp.my/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
-</a>
-<a href="https://github.com/kktpx?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+**Explore more projects and get in touch**
+
+<a href="https://www.kktp.my/">Portfolio</a> · <a href="https://github.com/kktpx?tab=repositories">All repositories</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kktpx&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kktpx&label=Profile%20Views&color=06B6D4&style=flat-square" alt="GitHub profile views" />
 
 </div>
